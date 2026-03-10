@@ -9,3 +9,7 @@ void input() {
     cout << "Masukkan lebar: ";
     cin >> lebar;
 }
+
+int LuasPersegi(int a, int b) {
+    return a * b;
+}
